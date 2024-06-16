@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Zenith</string>
+    <string name="gemini_api_key">AIzaSyAvltzApP9VEsRpEhjVVVDyhB5ck5Uz3lI</string>
+    <string name="user_prompt">User-Prompt</string>
+    <string name="bot_response">Bot-Response</string>
+    <string name="zenith">Zenith</string>
+    <string name="write_your_message_here">Write Your Message here…</string>
+    <string name="type_here">Type Here…</string>
+    <string name="send_button">Image button for sending the prompt</string>
+</resources>
